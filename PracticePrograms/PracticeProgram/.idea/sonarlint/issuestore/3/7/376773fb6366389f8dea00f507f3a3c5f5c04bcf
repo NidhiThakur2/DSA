@@ -1,0 +1,18 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ü¨Ü
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Š«É
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²•ðì
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²•ðì
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²•ðì
+z
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "originalTree".(ÜææÇ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âç·Ì
+L
+java:S1854"7Remove this useless assignment to local variable "ans".(¡ÌüI
+=
+java:S1481"(Remove this unused "ans" local variable.(¡ÌüI
+S
+java:S1854%"8Remove this useless assignment to local variable "indx".(à¨êõþÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(¬«¦Š
+Y
+java:S1128">Remove this unused import 'javax.swing.tree.TreeCellRenderer'.(Îêÿðþÿÿÿÿ

@@ -1,0 +1,31 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÀ*
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûèƒØ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÎ÷Ô
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÀÏ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ø² üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²£ù¾üÿÿÿÿ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+P
+java:S1854":Remove this useless assignment to local variable "length".(¾Ÿ–ğ
+O
+java:S1854":Remove this useless assignment to local variable "length".(ºª–C
+@
+java:S1197
+"*Move the array designators [] to the type.(—ÀÏ
+E
+java:S1197"*Move the array designators [] to the type.(¤Ø² üÿÿÿÿ
+A
+java:S1481"+Remove this unused "length" local variable.(è’Œ
+D
+java:S1481 ".Remove this unused "searchMap" local variable.(£š²õ
+O
+java:S2864!"4Iterate over the "entrySet" instead of the "keySet".(‚ñü¬ÿÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(òşé¿
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

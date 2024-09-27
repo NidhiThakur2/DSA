@@ -1,0 +1,19 @@
+
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Ó®×ıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø˜şÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÚÙàÚøÿÿÿÿ
+|
+java:S1319"aThe type of "B" should be an interface such as "List" rather than the implementation "ArrayList".(ÚÙàÚøÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ñ®Şüÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ó®×ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÙàÚøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÙàÚøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ…€³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òşé¿
+J
+java:S1128"/Remove this unused import 'PracticePrograms.A'.(çÏô‚şÿÿÿÿ

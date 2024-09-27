@@ -1,0 +1,20 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ìïâÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ê›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ÅÌøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(‡Ìïâÿÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(„Ã«ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—ŞK
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‡¼¸Îşÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "rmost".(¦Ùö–ÿÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "lmost".(¦Ùö–ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(„Ã«ùÿÿÿÿ
+>
+java:S1659"#Declare "rmost" on a separate line.(¦Ùö–ÿÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(œ÷ãúıÿÿÿÿ

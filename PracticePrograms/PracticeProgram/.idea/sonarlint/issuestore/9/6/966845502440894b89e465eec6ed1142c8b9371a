@@ -1,0 +1,16 @@
+
+H
+java:S1199'"-Extract this nested code block into a method.(Î€ä‚şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÆŒìıÿÿÿÿ
+Z
+java:S2259>"EA "NullPointerException" could be thrown; "current" is nullable here.(ĞƒŠ
+A
+java:S1168&"+Return an empty collection instead of null.(¥¹ï
+P
+java:S18540":Remove this useless assignment to local variable "parent".( ôØ—
+U
+java:S18545":Remove this useless assignment to local variable "parent".(¦‹Ó‡ûÿÿÿÿ
+A
+java:S14810"+Remove this unused "parent" local variable.( ôØ—
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

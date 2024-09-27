@@ -1,0 +1,21 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛêýÏ
+è
+java:S1598"ÅThis file "CountSort.java" should be located in "Scaler\DSA2\Sorting2_radixSort22092023" directory, not in "D:\PracticePrograms\PracticeProgram\src\Scaler\DSA2\Sorting2_QuickSortradixSort22092023".(’Ì…¨ûÿÿÿÿ8¡ž’Øð1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Ì…¨ûÿÿÿÿ
+z
+java:S4165"_Remove this useless assignment; "A" already holds the assigned value along all execution paths.(Ç¹¾–ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±”â“ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­¾©äúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´Þ’€üÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(´Þ’€üÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(´Þ’€üÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(Þ…îÑûÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¹–‰
+Q	java:S1254"<This block of commented-out lines of code should be removed.(ñ¾ÀÈ
+B
+java:S1905<"'Remove this unnecessary cast to "long".(îé€Æùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

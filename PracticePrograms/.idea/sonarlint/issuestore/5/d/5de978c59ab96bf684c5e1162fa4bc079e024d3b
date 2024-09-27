@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü–¯õ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü–¯õ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü–¯õ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëùà
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ½ÊĞ
+M
+java:S3518"7Make sure "c" can't be zero before doing this division.(ıö¶
+T
+java:S1659">Declare "B" and all following declarations on a separate line.(Ü–¯õ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë±¼øùÿÿÿÿ
+B
+java:S1905"'Remove this unnecessary cast to "long".(¤æûÿÿÿÿ

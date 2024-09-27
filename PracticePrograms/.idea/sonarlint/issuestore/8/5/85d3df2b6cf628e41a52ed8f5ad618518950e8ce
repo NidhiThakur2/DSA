@@ -1,0 +1,11 @@
+
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôáì
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¥—èûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²£ù¾üÿÿÿÿ
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(áĞÀ£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

@@ -1,0 +1,18 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ñ®Þüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã®´£üÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ùõ×
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃ·¿ùÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃ·¿ùÿÿÿÿ
+>
+java:S16044"(Make this anonymous inner class a lambda(‘§úÒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿå“ùûÿÿÿÿ
+G
+java:S1197",Move the array designators [][] to the type.(ã®´£üÿÿÿÿ
+@
+java:S1197%"*Move the array designators [] to the type.(ØÚµè
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(›÷¸Õüÿÿÿÿ
+@
+java:S1197+"*Move the array designators [] to the type.(×ÞÑò
+V	java:S125@"<This block of commented-out lines of code should be removed.(Òè‹Šúÿÿÿÿ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ãÈßÕ

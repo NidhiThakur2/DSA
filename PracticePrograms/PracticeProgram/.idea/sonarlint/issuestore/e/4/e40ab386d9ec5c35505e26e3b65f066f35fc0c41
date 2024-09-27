@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áú¯ã8íç¯šõ1
+W
+java:S1854
+"5Remove this useless assignment to local variable "n".(éœ†äúÿÿÿÿ8è¯šõ1
+A
+java:S1659
+"Declare "k" on a separate line.(éœ†äúÿÿÿÿ8‘è¯šõ1
+H
+java:S1481
+"&Remove this unused "n" local variable.(éœ†äúÿÿÿÿ8‘è¯šõ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8”è¯šõ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8”è¯šõ1

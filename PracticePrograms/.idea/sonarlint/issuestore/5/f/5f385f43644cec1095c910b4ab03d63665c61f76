@@ -1,0 +1,21 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áš“
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í›Ğ´
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãôÂ¾
+e
+java:S3824:"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(èñ¶ì
+e
+java:S3824."OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(èñ¶ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™»è
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ùˆ¦é
+O
+java:S1854&"9Remove this useless assignment to local variable "nodes".(úô°æ
+^
+java:S1659"CDeclare "mincol" and all following declarations on a separate line.(©Ò¾èøÿÿÿÿ
+@
+java:S1481&"*Remove this unused "nodes" local variable.(úô°æ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(÷éá»
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(‚á‹½
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(öâªu

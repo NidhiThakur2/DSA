@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ËÇ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Şİç
+K
+java:S1854"5Remove this useless assignment to local variable "A".(½ËÇ
+Y
+java:S1659">Declare "b" and all following declarations on a separate line.(àë«ıÿÿÿÿ
+<
+java:S1481"&Remove this unused "A" local variable.(½ËÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜúÉşÿÿÿÿ
+y
+java:S2234"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(ÉÍïèıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜúÉşÿÿÿÿ
+y
+java:S2234"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(ğÂí™şÿÿÿÿ

@@ -1,0 +1,12 @@
+
+f
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(Õ¿
+j
+java:S1104"TMake leftNode a static final constant or non-public and provide accessors if needed.(÷”ï×
+k
+java:S1104"UMake rightNode a static final constant or non-public and provide accessors if needed.(ôÄ¼Œ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÆŒìıÿÿÿÿ
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(±ª’
+Q	java:S125""<This block of commented-out lines of code should be removed.(½‹¨Õ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(«¾Œ„

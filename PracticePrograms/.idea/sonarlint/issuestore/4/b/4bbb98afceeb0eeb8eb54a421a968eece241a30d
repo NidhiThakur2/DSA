@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú­ÚŒÿÿÿÿÿ
+C
+java:S2440
+"(Remove this instantiation of "LinkList".(›©ËÞûÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¾˜ÜÂûÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(‡â¨Çûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ê¯Óˆÿÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð1

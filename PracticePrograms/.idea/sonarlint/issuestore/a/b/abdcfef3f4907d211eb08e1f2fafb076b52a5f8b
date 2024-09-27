@@ -1,0 +1,21 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôé£¯ûÿÿÿÿ8ˆï˜‰ö0
+u	java:S135$"YReduce the total number of break and continue statements in this loop to use at most one.(¢Ô¢ğ8‹ï˜‰ö0
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôé£¯ûÿÿÿÿ8‹ï˜‰ö0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ºÜÜ8ï˜‰ö0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ®ú”8ï˜‰ö0
+e
+java:S22592"CA "NullPointerException" could be thrown; "chCol" is nullable here.(¦šî—şÿÿÿÿ8ıÃš‰ö0
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Çµí‘8µò˜‰ö0
+8
+java:S3626&"Remove this redundant jump.(ÉŠ©ƒ8·ò˜‰ö0
+W	java:S125"<This block of commented-out lines of code should be removed.(ûĞûq8¹ò˜‰ö0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ŞñÂÏ8¼ò˜‰ö0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(…Æ¢™8¾ò˜‰ö0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(…Æ¢™8Àò˜‰ö0
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8Àò˜‰ö0
+]	java:S125T"<This block of commented-out lines of code should be removed.(ıÄïáÿÿÿÿÿ8Àò˜‰ö0

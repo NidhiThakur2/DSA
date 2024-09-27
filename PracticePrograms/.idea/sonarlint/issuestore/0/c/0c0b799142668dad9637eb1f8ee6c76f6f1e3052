@@ -1,0 +1,22 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ€¸š
+X
+java:S2259 "BA "NullPointerException" could be thrown; "temp" is nullable here.(åšî×
+]
+java:S2259Y"BA "NullPointerException" could be thrown; "curr" is nullable here.(Óˆ…­øÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(³æ••ýÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(¸§Äe
+T
+java:S1854H"9Remove this useless assignment to local variable "head1".(¾Œ·âýÿÿÿÿ
+K
+java:S1854B"6Remove this useless assignment to local variable "n6".(×•žL
+Q
+java:S1854A"6Remove this useless assignment to local variable "n5".(ØØ…‚ùÿÿÿÿ
+B
+java:S1481A"'Remove this unused "n5" local variable.(ØØ…‚ùÿÿÿÿ
+<
+java:S1481B"'Remove this unused "n6" local variable.(×•žL
+E
+java:S1481H"*Remove this unused "head1" local variable.(¾Œ·âýÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'Scaler.DSA3.LinkedList1_27102023.LinkList'.(ö°¨Áøÿÿÿÿ

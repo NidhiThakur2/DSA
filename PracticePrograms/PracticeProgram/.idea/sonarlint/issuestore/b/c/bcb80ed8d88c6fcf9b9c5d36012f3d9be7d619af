@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Çµí‘
+R
+java:S1854"7Remove this useless assignment to local variable "max".( ®©Äøÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(ùÅüÖùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡þžÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ªÃ±‰øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»©›—
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

@@ -1,0 +1,9 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ü¨Ü8„†À„ø0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¢øÑ8„†À„ø0
+X
+java:S1854%";Remove this useless assignment to local variable "prevSum".(‡µÎÅ8ßŠÁ„ø0
+B
+java:S1659"%Declare "prevSum" on a separate line.(ýÏÙ¨8¢†À„ø0
+X	java:S125"<This block of commented-out lines of code should be removed.(£³Ç8¥‘Ä„ø0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8«¾Ã„ø0

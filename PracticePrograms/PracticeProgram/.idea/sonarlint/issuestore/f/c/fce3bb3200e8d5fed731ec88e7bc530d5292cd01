@@ -1,0 +1,12 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¯’g
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úé˜
+e
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¯’g
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(”ÿö
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(˜†ûˆüÿÿÿÿ
+<	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ
+W
+java:S1126$"AReplace this if-then-else statement by a single return statement.(›º»Ë

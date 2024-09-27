@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›Ó´ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÙŠèúÿÿÿÿ
+Z
+java:S2259"?A "NullPointerException" could be thrown; "A" is nullable here.(ëì·µøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëì·µøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰†¿á
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(şî¶²øÿÿÿÿ
+M
+java:S1854"8Remove this useless assignment to local variable "temp".(«ĞÕ(
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,13 @@
+
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄ¿‹
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄ¿‹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ªŠÑ
+X
+java:S2259$"BA "NullPointerException" could be thrown; "temp" is nullable here.(åšî×
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ù³ ã
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ý¡³Áúÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ý¡³Áúÿÿÿÿ
+N
+java:S1854U"8Remove this useless assignment to local variable "curr".(€É¨Ç
+S
+java:S1854K"8Remove this useless assignment to local variable "curr".(¬ È”üÿÿÿÿ
